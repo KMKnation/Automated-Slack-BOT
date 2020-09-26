@@ -1,1 +1,1 @@
-# Automated-Slack-SPAM
+# Automated-Slack-BOT
