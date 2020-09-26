@@ -1,4 +1,4 @@
-# Automated-Slack-SPAM
+# Automated-Slack-BOT
 
 #### Demo:
 
@@ -15,3 +15,4 @@
 
 
 ![BOT](screenshot_from_2020-09-26_11-01-20.png)
+
