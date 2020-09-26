@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__c-icon c-icon--paperplane-filled</name>
+   <tag></tag>
+   <elementGuidId>cfc2bc9c-e08b-4096-a31d-10747c95dd66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@type='paperplane-filled']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.c-icon.c-icon--paperplane-filled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-icon c-icon--paperplane-filled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>paperplane-filled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;threads_view_footer-C017SU8EAQ0-1600616972.225200&quot;)/div[@class=&quot;p-threads_view__default_background p-threads_view__default_background--last&quot;]/div[@class=&quot;p-threads_view__footer&quot;]/div[@class=&quot;p-threads_footer__input_container p-threads_footer__input_container--sticky_composer&quot;]/div[@class=&quot;p-threads_footer__input p-message_input&quot;]/div[@class=&quot;c-texty_input__container c-texty_input__container--multi_line&quot;]/div[@class=&quot;c-texty_buttons&quot;]/button[@class=&quot;c-button-unstyled c-icon_button c-icon_button--light c-icon_button--size_medium c-texty_input__button c-texty_input__button--send&quot;]/i[@class=&quot;c-icon c-icon--paperplane-filled&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@type='paperplane-filled']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='threads_view_footer-C017SU8EAQ0-1600616972.225200']/div/div/div/div/div/div[2]/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/button/i</value>
+   </webElementXpaths>
+</WebElementEntity>

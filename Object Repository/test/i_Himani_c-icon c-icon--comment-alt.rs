@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Himani_c-icon c-icon--comment-alt</name>
+   <tag></tag>
+   <elementGuidId>9b1ba230-6f97-4dca-90e2-a95942c9ccb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@type='comment-alt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.c-icon.c-icon--comment-alt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-icon c-icon--comment-alt</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>comment-alt</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;threads_view_root-C017SU8EAQ0-1600616972.225200&quot;)/div[@class=&quot;p-threads_view__default_background p-threads_view__default_background--first&quot;]/div[@class=&quot;c-message_kit__background c-message_kit__background--hovered c-message_kit__background--labels c-message_kit__background--labels--pinned p-threads_view_root c-message_kit__message c-message_kit__thread_message c-message_kit__thread_message--root&quot;]/div[@class=&quot;c-message_kit__hover c-message_kit__hover--hovered&quot;]/div[@class=&quot;c-message_kit__actions c-message_kit__actions--default&quot;]/div[@class=&quot;c-message_actions__container c-message__actions&quot;]/div[@class=&quot;c-message_actions__group&quot;]/button[@class=&quot;c-button-unstyled c-icon_button c-icon_button--light c-icon_button--size_small c-message_actions__button&quot;]/i[@class=&quot;c-icon c-icon--comment-alt&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@type='comment-alt']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='threads_view_root-C017SU8EAQ0-1600616972.225200']/div/div/div/div/div[3]/div/button[3]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/i</value>
+   </webElementXpaths>
+</WebElementEntity>
