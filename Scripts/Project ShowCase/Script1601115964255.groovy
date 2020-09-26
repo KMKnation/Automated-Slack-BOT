@@ -41,39 +41,3 @@ WebUI.waitForJQueryLoad(5000)
 WebUI.waitForPageLoad(0)
 
 WebUI.delay(10)
-
-WebUI.navigateToUrl('https://app.slack.com/client/T015K1W04H5/threads/thread/C017SU8EAQ0-1600616972.225200', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Success/div_Search Machine Learning Scholarship for_43ebad'))
-
-WebUI.click(findTestObject('Object Repository/Success/div_Reply'))
-
-def nameList = [":aww-onion-head:", ":pikachu_hi:", ":eyes:",
-	 ":bunny-jitter-dance:",":dancing_penguin:", ":a-parrot:",
-	 "https://microsoftmlchallenge.slack.com/archives/C016CCNN4BB/p1601080177077800",
-	 "YOU ARE ONE AWESOME SET OF PEOPLE :heart:",
-	 "In this last week of the program, we know you will keep supporting each other to together walk past the finish line and you will keep pumping up the spirits of this community until the very end! :fire:",
-	 "Remember to check the courses, quizzes and labs to make sure you 've completed it.",
-	  ":blob-sign-yes:", ":joy:", ":blob-sunglasses:", ":sabyh:",
-	 "Please fill END of the program survey :) https://docs.google.com/forms/d/e/1FAIpQLSfFh2ayd68gxT76S9xfhE7ojnSqAvfkyEwhZbaoHW7o5J1ANg/viewform",
-	   ":blob-excited:",
-	   "A Peek into All That's Happening! https://sites.google.com/udacity.com/microsoftazurechallenge/community/alldayml-event?pli=1&authuser=1#h.pjlatl95xag", 
-	    ":charmander_dancing:", 
-		"What is the #AllDayML Event? https://sites.google.com/udacity.com/microsoftazurechallenge/community/alldayml-event?pli=1&authuser=1#h.d3iq2tnztdah",
-		":dancing_mufasa:",
-		"you are still here :joy:",
-		":alert: :alert: :alert: :alert: :alert: :alert: :alert: :alert: :alert: :alert: :alert: :alert: \n"
-		+"Never forget why this thread was created and the frustration of people with number 90+ in Tambola game.\n Game with rigged :rolling_on_the_floor_laughing: Don't forget to blame the organizers and  @Sabyh :joy: :joy: :joy:",
-		 ":hug:"]
-
-def nameListSize = nameList.size()
-def r = new Random()
-for(int i=0;i<30000;i++){
-		
-	WebUI.setText(findTestObject('Object Repository/Success/div_Test 4'), ''+nameList.get(r.nextInt(nameListSize)))
-	
-	WebUI.click(findTestObject('Object Repository/Success/i__c-icon c-icon--paperplane-filled'))
-	
-	WebUI.delay(30)
-}
-
